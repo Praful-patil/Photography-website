@@ -703,6 +703,9 @@ footer{
     }
 
     /* ==================== ABOUT ==================== */
+    #about {
+        margin-top: 10rem;
+    }
     .about__container{
         grid-template-columns: 1fr;
         gap: 2rem;
@@ -716,7 +719,7 @@ footer{
 
     /* ==================== GALLERY ==================== */
     #gallery{
-        margin-top: 6rem;
+        margin-top: 5rem;
     }
     .gallery__container p {
         margin-top: 1rem;
@@ -726,8 +729,8 @@ footer{
     }
 
     /* ==================== EXHIBITION ==================== */
-    #exhibations{
-        margin-top: 6rem;
+    #exhibitions {
+        margin-top: 5rem;
     }
     .exhibitions__head{
         grid-template-columns: 1fr;
@@ -757,5 +760,4 @@ footer{
         gap: 2rem;
         margin-top: 5rem;
     }
-
 }
